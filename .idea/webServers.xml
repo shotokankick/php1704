@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="37633192-0443-4a28-9578-f7be07bd1ca9" name="1" url="http://dev.asdat.org">
+        <fileTransfer host="dev.asdat.org" port="21" rootFolder="/web/php17045.dev.asdat.org/public_html">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
